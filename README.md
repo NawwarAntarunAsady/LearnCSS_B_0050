@@ -1,1 +1,1 @@
-![Screenshot full page](/pictures/screenshot_full-page.png)
+![Screenshot full page](/pictures/screenfullpage.png)
